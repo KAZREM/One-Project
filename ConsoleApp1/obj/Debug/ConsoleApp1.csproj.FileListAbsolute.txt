@@ -1,0 +1,5 @@
+c:\users\исабекови\documents\visual studio 2017\Projects\Practic 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\исабекови\documents\visual studio 2017\Projects\Practic 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\исабекови\documents\visual studio 2017\Projects\Practic 1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\исабекови\documents\visual studio 2017\Projects\Practic 1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\исабекови\documents\visual studio 2017\Projects\Practic 1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
